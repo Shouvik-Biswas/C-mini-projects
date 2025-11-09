@@ -1,5 +1,5 @@
 // Rock-Paper-Scissors Game in C
-// Author: samriddha das
+// Author: shouvik biswas
 // User vs Computer game using random numbers
 
 #include <stdio.h>
