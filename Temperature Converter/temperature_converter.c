@@ -1,5 +1,5 @@
 // Temperature Converter in C
-// Author: samriddha das
+// Author: shouvik biswas
 // Converts between Celsius, Fahrenheit, and Kelvin
 
 #include <stdio.h>
